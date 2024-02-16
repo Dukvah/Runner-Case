@@ -3,15 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Danger
+  - CheckPoint
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - WayObstacles
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
